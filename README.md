@@ -9,3 +9,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-Data%20Engineer%20roles-2da44e?style=flat-square&labelColor=dafbe1&color=2da44e" />
 </p>
+
+## About
+
+I design and build end-to-end data pipelines — from raw ingestion to analytics-ready tables. Focused on clean architecture, reliable orchestration, and helping data teams move faster.
+
+📍 Turkey &nbsp;·&nbsp; demirenes2772@gmail.com
