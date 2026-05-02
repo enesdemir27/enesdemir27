@@ -47,7 +47,7 @@ I design and build end-to-end data pipelines — from raw ingestion to analytics
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=enesdemir27&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f&hide=prs,issues,contribs" />
+      <img src="https://github-readme-stats.vercel.app/api?username=enesdemir27&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f&count_private=true&include_all_commits=true" />
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=enesdemir27&hide_border=true&background=ffffff&ring=0969da&fire=f85149&currStreakLabel=0969da" />
