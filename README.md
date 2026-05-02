@@ -41,3 +41,18 @@ I design and build end-to-end data pipelines — from raw ingestion to analytics
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=enesdemir27&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f&hide=prs,issues,contribs" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=enesdemir27&hide_border=true&background=ffffff&ring=0969da&fire=f85149&currStreakLabel=0969da" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesdemir27&layout=compact&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f&langs_count=5" />
