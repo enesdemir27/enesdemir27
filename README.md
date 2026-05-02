@@ -64,3 +64,12 @@ I design and build end-to-end data pipelines — from raw ingestion to analytics
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enesdemir27/enesdemir27/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/enesdemir27/enesdemir27/output/github-contribution-grid-snake.svg" />
 </picture>
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-enesdemir27-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/enesdemir27)
+[![Email](https://img.shields.io/badge/Email-demirenes2772@gmail.com-0969da?style=flat-square&logo=gmail&logoColor=white)](mailto:demirenes2772@gmail.com)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f3460&height=80&section=footer" width="100%" />
+</p>
