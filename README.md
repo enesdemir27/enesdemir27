@@ -56,3 +56,11 @@ I design and build end-to-end data pipelines — from raw ingestion to analytics
 </table>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesdemir27&layout=compact&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f&langs_count=5" />
+
+## Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enesdemir27/enesdemir27/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enesdemir27/enesdemir27/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/enesdemir27/enesdemir27/output/github-contribution-grid-snake.svg" />
+</picture>
