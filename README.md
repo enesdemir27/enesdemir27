@@ -67,7 +67,7 @@ I design and build end-to-end data pipelines — from raw ingestion to analytics
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-enesdemir27-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/enesdemir27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-enes--demir-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-demir-673b72292/)
 [![Email](https://img.shields.io/badge/Email-demirenes2772@gmail.com-0969da?style=flat-square&logo=gmail&logoColor=white)](mailto:demirenes2772@gmail.com)
 
 <p align="center">
